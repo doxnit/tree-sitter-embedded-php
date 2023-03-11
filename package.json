@@ -10,7 +10,7 @@
   "author": "Clayton Carter",
   "license": "MIT",
   "dependencies": {
-    "nan": "^2.14.0"
+      "nan": "github:jkleinsc/nan#remove_accessor_signature"
   },
   "devDependencies": {
     "tree-sitter-cli": "^0.17.3"
